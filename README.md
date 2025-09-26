@@ -1,4 +1,7 @@
-## Hi there 👋
+## Data Analyst
+A Fresher Data Analyst 
+**PonVo02 - ponvo144@gmail.com**
+
 
 <!--
 **PonVo02/PonVo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

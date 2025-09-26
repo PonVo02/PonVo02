@@ -3,10 +3,11 @@ A collection of SQL and data analysis projects showcasing my journey as a Data A
 
 **PonVo02 - ponvo144@gmail.com**
 
-## Technical Skill
-- SQL:
-- Power Bi:
-- Python:
+## 🛠️ Technical Skills
+- **SQL**: MySQL, PostgreSQL, Google BigQuery  
+- **Power BI**: DAX, Power Query, Data Modeling  
+- **Python**: Pandas, NumPy, MatPlotLib, Seaborn  
+- **Machine Learning**: Supervised Learning with Scikit-learn  
 
 
 <!--

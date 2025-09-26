@@ -1,5 +1,6 @@
-## Data Analyst
-A Fresher Data Analyst 
+# 📊 Data Analyst Fresher Portfolio  
+A collection of SQL and data analysis projects showcasing my journey as a Data Analyst Fresher.  
+
 **PonVo02 - ponvo144@gmail.com**
 
 
